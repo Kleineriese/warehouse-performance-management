@@ -75,6 +75,19 @@ The project was initiated by the CEO and implemented together with warehouse man
 
 ---
 
+## Tech Stack
+
+| Area | Technology |
+|---|---|
+| Source system | 1C |
+| Data processing | Python, pandas |
+| BI / Analytics | Qlik Sense |
+| Operational storage | QVD |
+| Input / Output | Excel |
+| Version control | Git / GitHub |
+
+---
+
 ## Solution
 
 The solution has two connected components.
@@ -294,19 +307,6 @@ It handles:
 - transformation into a structured employee-day dataset.
 
 > The code in this repository is a simplified and anonymized portfolio implementation based on the production workflow. Company-specific data, paths, identifiers, and sensitive business logic have been removed or generalized.
-
----
-
-## Tech Stack
-
-| Area | Technology |
-|---|---|
-| Source system | 1C |
-| Data processing | Python, pandas |
-| BI / Analytics | Qlik Sense |
-| Operational storage | QVD |
-| Input / Output | Excel |
-| Version control | Git / GitHub |
 
 ---
 
